@@ -1,0 +1,10 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+Glp-Ala-Ala-Leu-NHPhNO2,Glp,A,A,L,NAN,*,*,*
+Glp-Phe-Leu-NHPhNO2,*,Glp,F,L,NAN,*,*,*
+Suc-Ala-Ala-Ala-NHPhNO2,Suc,A,A,A,NAN,*,*,*
+Suc-Ala-Ala-NHPhNO2,*,Suc,A,A,NAN,*,*,*
+Suc-Ala-Ala-Pro-Phe-NHMec,A,A,P,F,AMC,*,*,*
+Suc-Arg-Pro-Phe-His-Leu-Leu-Val-Tyr-NHMec,L,L,V,Y,AMC,*,*,*
+Suc-Leu-Leu-Val-Tyr-NHMec,L,L,V,Y,AMC,*,*,*
+Z-Ala-Ala-Leu-NHPhNO2,Z,A,A,L,NAN,*,*,*
+Z-Gly-Gly-Leu-NHPhNO2,Z,G,G,L,NAN,*,*,*

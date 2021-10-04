@@ -1,0 +1,17 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+Suc-Ala-Ala-Phe-NHPhNO2,Suc,A,A,F,NAN,*,*,*
+Suc-Ala-Ala-Pro-Ala-NHPhNO2,A,A,P,A,NAN,*,*,*
+Suc-Ala-Ala-Pro-Glu-NHPhNO2,A,A,P,E,NAN,*,*,*
+Suc-Ala-Ala-Pro-Leu-NHPhNO2,A,A,P,L,NAN,*,*,*
+Suc-Ala-Ala-Pro-Lys-NHPhNO2,A,A,P,K,NAN,*,*,*
+Suc-Ala-Ala-Pro-Nle-NHPhNO2,A,A,P,Nle,NAN,*,*,*
+Suc-Ala-Ala-Pro-Phe-NHPhNO2,A,A,P,F,NAN,*,*,*
+Suc-Ala-Ala-Pro-Val-NHPhNO2,A,A,P,V,NAN,*,*,*
+Suc-Ala-Glu-Pro-Phe-NHPhNO2,A,E,P,F,NAN,*,*,*
+Suc-Ala-Gly-Pro-Phe-NHPhNO2,A,G,P,F,NAN,*,*,*
+Suc-Ala-Leu-Pro-Phe-NHPhNO2,A,L,P,F,NAN,*,*,*
+Suc-Ala-Phe-Pro-Phe-NHPhNO2,A,F,P,F,NAN,*,*,*
+Suc-Ala-Trp-Pro-Phe-NHPhNO2,A,W,P,F,NAN,*,*,*
+Suc-Ala-Val-Pro-Phe-NHPhNO2,A,V,P,F,NAN,*,*,*
+Suc-Gly-Gly-Phe-NHPhNO2,Suc,G,G,F,NAN,*,*,*
+Suc-Phe-Ala-Ala-Phe-NHPhNO2,F,A,A,F,NAN,*,*,*

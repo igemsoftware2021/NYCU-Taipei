@@ -1,0 +1,18 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+Ac-Ala-Ala-Ala-OMe,Ac,A,A,A,OMe,*,*,*
+alpha-2-macroglobulin,G,H,A,R,L,V,H,V
+alpha-2-macroglobulin,H,A,R,L,V,H,V,E
+Antitrypsin,S,K,V,Y,V,R,P,P
+Glucoamylase,P,S,I,V,A,T,G,G
+Glucoamylase,T,S,A,S,S,V,P,G
+insulin B-chain (oxidized),V,E,A,L,Y,L,V,Cya
+insulin B-chain (oxidized),E,A,L,Y,L,V,Cya,G
+insulin B-chain (oxidized),L,Cya,G,S,H,L,V,E
+insulin B-chain (oxidized),F,V,N,Q,H,L,Cya,G
+insulin B-chain (oxidized),R,G,F,F,Y,T,P,K
+insulin B-chain (oxidized),A,L,Y,L,V,Cya,G,E
+insulin B-chain (oxidized),G,S,H,L,V,E,A,L
+insulin B-chain (oxidized),G,F,F,Y,T,P,K,A
+subtilisin BPN' propeptide,T,L,N,E,K,A,V,K
+subtilisin BPN' propeptide,F,K,Q,T,M,S,T,M
+subtilisin BPN' propeptide,M,S,T,M,S,A,A,K

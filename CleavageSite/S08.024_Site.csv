@@ -1,0 +1,18 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+angiotensin-1,I,H,P,F,H,L,*,*
+angiotensin-1,R,V,Y,I,H,P,F,H
+Antibacterial protein LL-37,L,G,D,F,F,R,K,S
+Antibacterial protein LL-37,K,E,K,I,G,K,E,F
+Antibacterial protein LL-37,K,E,F,K,R,I,V,Q
+Antibacterial protein LL-37,K,R,I,V,Q,R,I,K
+Antibacterial protein LL-37,R,I,V,Q,R,I,K,I
+Antibacterial protein LL-37,Q,R,I,K,D,F,L,R
+fibrinogen alpha chain,G,G,V,R,G,P,R,L
+Phe-8(4-nitro)-substrance P,Q,Q,PhN,F,G,L,M,NH2
+substance P,Q,Q,F,F,G,L,M,NH2
+Suc-Ala-Ala-Ala-NHPhNO2,Suc,A,A,A,NAN,*,*,*
+Suc-Ala-Ala-Phe-NHPhNO2,Suc,A,A,F,NAN,*,*,*
+Suc-Ala-Ala-Pro-Ala-NHPhNO2,A,A,P,A,NAN,*,*,*
+Suc-Ala-Ala-Pro-Leu-NHPhNO2,A,A,P,L,NAN,*,*,*
+Suc-Ala-Ala-Pro-Phe-NHPhNO2,A,A,P,F,NAN,*,*,*
+Suc-Ala-Ala-Pro-Phe-NHPhNO2 (SAAPFNA),A,A,P,F,NAN,*,*,*

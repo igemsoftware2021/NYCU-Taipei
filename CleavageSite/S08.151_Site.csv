@@ -1,0 +1,20 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+glucagon,*,H,S,Q,G,T,F,T
+glucagon,T,F,T,S,D,Y,S,K
+glucagon,R,R,A,Q,D,F,V,Q
+glucagon,R,A,Q,D,F,V,Q,W
+glucagon,D,F,V,Q,W,L,M,N
+insulin B-chain (oxidized),V,N,Q,H,L,Cya,G,S
+insulin B-chain (oxidized),L,Y,L,V,Cya,G,E,R
+insulin B-chain (oxidized),Y,L,V,Cya,G,E,R,G
+mellitin,G,I,G,A,V,L,K,V
+mellitin,L,K,V,L,T,T,G,L
+mellitin,A,L,I,S,W,I,K,R
+neurotensin,*,*,Q,L,Y,E,N,K
+substance P,*,*,R,P,K,P,Q,Q
+substance P,K,P,Q,Q,F,F,G,L
+systemin,P,K,M,Q,T,D,*,*
+[Gln16His]systemin,P,K,M,H,T,D,*,*
+"[Met15Lys,Gln16His,Thr17Lys]systemin",P,K,K,H,K,D,*,*
+"[Met15Lys,Gln16His]systemin",P,K,K,H,T,D,*,*
+[Met15Lys]systemin,P,K,K,Q,T,D,*,*

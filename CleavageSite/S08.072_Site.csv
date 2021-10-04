@@ -1,0 +1,99 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+Agouti-related protein,R,E,P,R,S,S,R,R
+Agouti-related protein,R,S,S,R,R,C,V,R
+Appetite-regulating hormone,L,Q,P,R,A,L,E,G
+cholecystokinin,R,Q,L,R,A,V,L,R
+cholecystokinin,F,G,R,R,S,A,E,D
+cholecystokinin,I,S,D,R,D,Y,M,G
+Cholecystokinin precursor,Q,Q,V,R,K,A,P,S
+Cholecystokinin precursor,L,L,A,R,Y,I,Q,Q
+Cocaine- and amphetamine-regulated transcript protein precursor,K,S,K,R,I,P,I,Y
+Cocaine- and amphetamine-regulated transcript protein precursor,R,Q,L,R,A,P,G,A
+Cocaine- and amphetamine-regulated transcript protein precursor,L,Q,P,R,A,L,D,I
+consensus arginyl bond,*,NPe,K,R,CPe,*,*,*
+consensus arginyl bond,*,NPe,R,R,CPe,*,*,*
+consensus arginyl bond,R,X,X,R,CPe,*,*,*
+consensus arginyl bond,K,X,X,R,CPe,*,*,*
+gastrin,H,H,R,R,Q,L,G,P
+gastrin,F,G,R,R,S,A,E,E
+gastrin precursor,P,S,K,K,Q,G,P,W
+gastrin precursor,F,G,R,R,S,A,E,D
+gastrin precursor,H,H,R,R,Q,L,G,P
+Glp-Arg-Thr-Lys-Arg-NHMec,R,T,K,R,AMC,*,*,*
+glucagon,N,T,K,R,N,K,N,N
+glucagon,N,T,K,R,N,R,N,N
+glucagon,I,A,K,R,H,D,E,F
+glucagon,E,F,E,R,H,A,E,G
+glucagon,R,G,R,R,D,F,P,E
+glucagon,L,G,R,R,H,A,D,G
+glucagon precursor,I,A,K,R,H,D,E,F
+glucagon precursor,E,F,E,R,H,A,E,G
+glucagon precursor,R,G,R,R,D,F,P,E
+glucagon precursor,F,R,R,R,H,A,D,G
+glucagon precursor,I,A,K,R,H,D,E,F
+glucagon precursor,E,F,E,R,H,A,E,G
+glucagon precursor,R,G,R,R,D,F,P,E
+glucagon precursor,L,G,R,R,H,A,D,G
+glucagon precursor,I,A,K,R,H,D,E,F
+glucagon precursor,E,F,E,R,H,A,E,G
+glucagon precursor,R,G,R,R,D,F,P,E
+glucagon precursor,L,G,R,R,H,A,D,G
+glucagon precursor,N,T,K,R,N,R,N,N
+glucagon precursor,N,T,K,R,N,R,N,N
+IAPP,Y,G,K,R,N,A,V,E
+insulin I,K,S,R,R,E,V,E,D
+insulin II,M,S,R,R,E,V,E,D
+insulin precursor,L,Q,K,R,G,I,V,E
+insulin precursor,K,T,R,R,E,A,E,D
+insulin-1,K,S,R,R,E,V,E,D
+insulin-1,R,Q,K,R,G,I,V,D
+insulin-2,R,Q,K,R,G,I,V,D
+insulin-2,M,S,R,R,E,V,E,D
+neuroendocrine protein 7B2,R,K,R,R,S,V,N,P
+neuropeptide Y,Y,G,K,R,S,S,P,E
+neurotensin/neuromedin N,V,I,K,R,K,I,P,Y
+neurotensin/neuromedin N,I,L,K,R,Q,L,Y,E
+neurotensin/neuromedin N,I,L,K,R,A,S,Y,Y
+oxytocin-neurophysin 1,G,G,K,R,A,A,L,D
+pro-melanin-concentrating hormone,I,G,R,R,D,F,D,M
+pro-opiomelanocortin,N,A,H,K,K,G,Q,*
+prodynorphin,L,Y,K,R,Y,G,G,F
+prodynorphin,V,V,T,R,S,Q,E,N
+prodynorphin,V,V,T,R,S,Q,E,N
+prodynorphin,Q,A,K,R,Y,G,G,F
+prodynorphin,Y,P,K,R,S,S,E,M
+proenkephalin A,L,A,K,K,Y,G,G,F
+proenkephalin A,F,L,K,R,F,A,E,S
+proenkephalin-A,M,E,K,R,Y,G,G,F
+proenkephalin-A,V,S,K,R,Y,G,G,F
+proenkephalin-A,F,L,K,R,F,A,E,A
+proenkephalin-A,Y,Q,K,R,Y,G,G,F
+proenkephalin-A,G,L,K,R,S,P,Q,L
+proenkephalin-A,F,M,K,K,D,A,E,E
+proopiomelanocortin,E,G,K,R,S,Y,S,M
+proopiomelanocortin,K,D,K,R,Y,G,G,F
+proopiomelanocortin,E,F,K,R,E,L,E,G
+proopiomelanocortin,A,H,K,K,G,Q,*,*
+proprotein convertase 1,R,S,K,R,S,V,Q,K
+prosomatostatin,R,E,R,K,A,G,C,K
+prothyroliberin,L,S,K,R,Q,H,P,G
+prothyroliberin,P,H,K,R,Q,H,P,G
+prothyroliberin,Q,H,K,R,Q,H,P,G
+prothyroliberin,V,P,K,R,Q,H,P,G
+prothyroliberin,P,E,K,R,Q,H,P,G
+prothyroliberin,E,E,K,R,Q,H,P,G
+prothyroliberin,P,E,R,R,F,L,W,K
+prothyroliberin,Q,V,K,R,Q,H,P,G
+prothyroliberin,P,G,R,R,S,F,P,W
+prothyroliberin,P,G,R,R,A,N,Q,D
+prothyroliberin,P,G,K,R,A,L,G,H
+prothyroliberin,P,G,K,R,E,E,E,E
+prothyroliberin,I,T,K,R,Q,H,P,G
+renin precursor,P,M,K,R,L,T,L,G
+renin-2 precursor,F,T,K,R,S,S,L,T
+"secretogranin-1
+Secretogranin-1",W,E,R,R,P,F,S,E
+secretogranin-1,Y,E,K,R,S,F,A,R
+serum albumin precursor,V,F,R,R,D,A,H,K
+serum albumin precursor,R,F,A,R,D,A,E,H
+vasopressin-neurophysin 2-copeptin,R,L,T,R,A,R,E,Q

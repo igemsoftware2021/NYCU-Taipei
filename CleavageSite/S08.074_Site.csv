@@ -1,0 +1,104 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+72 kDa type IV collagenase,R,K,P,R,C,G,N,P
+A disintegrin and metalloproteinase with thrombospondin motifs 1,R,K,K,R,F,V,S,S
+A disintegrin and metalloproteinase with thrombospondin motifs 13,R,Q,R,R,A,A,G,G
+A disintegrin and metalloproteinase with thrombospondin motifs 2,R,A,R,R,H,A,A,D
+A disintegrin and metalloproteinase with thrombospondin motifs 2,R,A,R,R,A,A,P,V
+A disintegrin and metalloproteinase with thrombospondin motifs 3,R,R,R,R,H,A,G,E
+A disintegrin and metalloproteinase with thrombospondin motifs 4,R,A,K,R,F,A,S,L
+Aerolysin,R,R,A,R,S,V,D,G
+Alpha-toxin,R,G,K,R,S,V,D,S
+Beta-nerve growth factor,R,S,K,R,S,S,S,H
+Beta-secretase 1,R,L,P,R,E,T,D,E
+Bone morphogenetic protein 1,R,S,R,R,A,A,T,S
+Bone morphogenetic protein 4,R,A,K,R,S,P,K,H
+Brain-derived neurotrophic factor,R,V,R,R,H,S,D,P
+consensus arginyl bond,*,NPe,R,R,CPe,*,*,*
+consensus arginyl bond,K,X,X,R,CPe,*,*,*
+consensus arginyl bond,R,X,X,R,CPe,*,*,*
+consensus arginyl bond,X,X,X,R,CPe,*,*,*
+consensus arginyl bond,X,X,X,R,CPe,*,*,*
+consensus arginyl bond,X,X,X,R,CPe,*,*,*
+consensus arginyl bond,X,X,X,R,CPe,*,*,*
+Cubilin,R,Q,K,R,S,I,N,L
+Diphtheria toxin,R,V,R,R,S,V,G,S
+Disintegrin and metalloproteinase domain-containing protein 10 precursor,R,K,K,R,T,T,S,A
+Disintegrin and metalloproteinase domain-containing protein 12,R,H,K,R,E,T,L,K
+Disintegrin and metalloproteinase domain-containing protein 17,R,V,K,R,R,A,D,P
+Disintegrin and metalloproteinase domain-containing protein 19,R,M,K,R,E,D,L,N
+Disintegrin and metalloproteinase domain-containing protein 1a,R,S,R,K,P,D,D,L
+Disintegrin and metalloproteinase domain-containing protein 8,R,E,T,R,Y,V,E,L
+Ectodysplasin-A,R,N,K,R,S,K,S,N
+Envelope glycoprotein,R,T,R,R,E,A,I,V
+Envelope glycoprotein B,R,T,K,R,S,T,D,G
+Envelope glycoprotein B,R,R,R,R,D,A,G,N
+Envelope glycoprotein gp160,R,E,K,R,A,V,G,L
+Exotoxin A,R,Q,P,R,G,W,E,Q
+Fibrillin-1,R,K,R,R,S,T,N,E
+Fibroblast growth factor 23,R,H,T,R,S,A,E,D
+Furin,V,T,K,R,S,L,S,P
+Furin,R,T,K,R,D,V,Y,Q
+Fusion glycoprotein F0,R,H,K,R,F,A,G,V
+Fusion glycoprotein F0,R,Q,K,R,L,I,G,A
+Fusion glycoprotein F0,R,T,K,R,F,F,G,G
+Gastrin,H,H,R,R,Q,L,G,P
+Genome polyprotein,R,Q,K,R,S,V,A,L
+Genome polyprotein,R,S,R,R,S,L,T,V
+Glp-Arg-Thr-Lys-Arg-NHMec,R,T,K,R,AMC,*,*,*
+Hemagglutinin,R,K,K,R,G,L,F,G
+Hepatocyte growth factor receptor,R,K,K,R,S,T,K,K
+Hepatocyte growth factor receptor,K,Q,L,R,V,V,N,G
+Insulin receptor,R,K,R,R,S,L,G,D
+Insulin-like growth factor I,K,S,A,R,S,V,R,A
+Insulin-like growth factor II,K,S,E,R,D,V,S,T
+Integrin alpha-3,R,R,R,R,Q,L,D,P
+Integrin alpha-4,I,S,K,R,S,T,E,E
+Integrin alpha-5,Q,Q,K,R,E,A,P,S
+Integrin alpha-6,R,K,K,R,E,I,T,E
+Integrin alpha-7,R,R,R,R,E,L,E,P
+Integrin alpha-8,V,R,K,R,D,V,H,V
+Integrin alpha-IIb,R,D,R,R,Q,I,F,L
+Integrin alpha-V,I,T,K,R,D,L,A,L
+Interstitial collagenase propeptide,K,Q,P,R,C,G,V,P
+Left-right determination factor 2,R,G,K,R,F,S,Q,S
+Matrix metalloproteinase-14 precursor,R,R,K,R,Y,A,I,Q
+Matrix metalloproteinase-15,R,R,K,R,Y,T,L,T
+Matrix metalloproteinase-21,R,S,R,R,S,P,R,A
+Matrix metalloproteinase-24,R,N,K,R,Y,A,L,T
+Meprin A subunit alpha,R,Q,K,R,S,V,E,N
+Natriuretic peptides B,R,A,P,R,S,P,K,M
+Neuroendocrine protein 7B2,R,K,R,R,S,V,N,P
+Neurogenic locus notch homolog protein 1,R,R,R,R,E,L,D,P
+Neurotrophin-3,R,R,K,R,Y,A,E,H
+Neurotrophin-4,R,S,R,R,G,V,S,E
+Neutrophil collagenase,K,K,P,R,C,G,V,P
+Pancreatic hormone,Y,G,K,R,H,K,E,D
+Parathyroid hormone,V,K,K,R,S,V,S,E
+Parathyroid hormone-related protein,R,L,K,R,A,V,S,E
+Platelet-derived growth factor C,R,K,S,R,V,V,D,L
+Platelet-derived growth factor D,R,K,S,K,V,D,L,D
+Platelet-derived growth factor subunit A,R,R,K,R,S,I,E,E
+Platelet-derived growth factor subunit B,R,G,R,R,S,L,G,S
+Pro-opiomelanocortin,E,F,K,R,E,L,T,G
+Pro-opiomelanocortin,K,K,R,R,P,V,K,V
+Pro-opiomelanocortin,K,D,K,R,Y,G,G,F
+Proenkephalin-A,F,M,K,K,D,A,E,E
+Proenkephalin-A,G,L,K,R,S,P,Q,L
+Proheparin-binding EGF-like growth factor,R,K,V,R,D,L,Q,E
+Proliferation-inducing ligand APRIL,R,K,R,R,A,V,L,T
+Prolow-density lipoprotein receptor-related protein 1,R,H,R,R,Q,I,D,R
+proprotein convertase 4,R,V,K,R,S,L,V,V
+Protective antigen,R,K,K,R,S,T,S,A
+Semaphorin-3A,R,T,R,R,Q,D,I,R
+Serum albumin,V,F,R,R,D,A,H,K
+Shiga toxin 1 subunit A,R,V,A,R,M,A,S,D
+Sortilin-related receptor,R,R,K,R,S,A,A,L
+Spike glycoprotein,R,F,R,R,S,I,T,E
+Stromelysin-3,R,Q,K,R,F,V,L,S
+Structural polyprotein,R,S,K,R,S,V,I,D
+Transforming growth factor beta-1,R,H,R,R,A,L,D,T
+Tumor necrosis factor ligand superfamily member 13,R,K,R,R,A,V,L,T
+Tumor necrosis factor ligand superfamily member 13b,R,N,K,R,A,V,Q,G
+Vitamin K-dependent protein C,H,L,K,R,D,T,E,D
+von Willebrand factor,R,S,K,R,S,L,S,C
+Zona pellucida sperm-binding protein 3,R,N,R,R,H,V,T,E

@@ -1,0 +1,192 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+ABL203Wp,L,A,K,R,M,P,I,R
+alpha mating pheromone,V,S,K,R,D,A,N,A
+alpha mating pheromone,F,T,K,R,D,A,N,P
+alpha mating pheromone,L,F,R,R,S,A,D,A
+alpha mating pheromone,L,R,K,R,E,A,N,A
+alpha mating pheromone,L,K,K,R,E,A,N,A
+alpha-1 mating factor precursor,M,Y,K,R,E,A,E,A
+alpha-1 mating factor precursor,M,Y,K,R,E,A,D,A
+alpha-1 mating factor precursor,L,D,K,R,E,A,E,A
+alpha-2 mating factor precursor,M,Y,K,R,E,A,N,A
+aspartic proteinase,I,S,R,R,D,G,S,Y
+aspartic proteinase,F,A,K,R,A,S,S,V
+aspartic proteinase,L,A,K,R,H,T,S,N
+aspartic proteinase,L,N,K,R,D,D,K,G
+aspartic proteinase,L,T,K,R,A,D,N,D
+aspartic proteinase,L,E,K,R,A,D,D,L
+aspartic proteinase,L,V,K,R,D,D,E,Y
+aspartic proteinase,L,A,K,R,D,V,V,D
+aspartic proteinase,L,V,K,R,D,V,Q,D
+aspartic proteinase,L,A,K,R,A,D,D,D
+aspartic proteinase,L,S,K,R,S,A,V,D
+aspartic proteinase,Q,F,R,R,F,N,N,L
+aspartic proteinase,T,A,K,R,G,R,S,Q
+aspartic proteinase,V,N,K,R,A,N,G,Y
+aspartic proteinase,L,Q,K,R,S,K,S,F
+aspartic proteinase,I,T,K,R,D,V,S,Q
+aspartic proteinase,L,K,K,R,A,D,G,Y
+beta-glucosidase Psu1,L,N,K,R,D,V,S,V
+Boc-Arg-Thr-Lys-Arg-NHMec,R,T,K,R,AMC,*,*,*
+Boc-Gln-Arg-Arg-NHMec,Boc,Q,R,R,AMC,*,*,*
+candidapepsin SAP1,K,V,K,R,Q,A,L,P
+candidapepsin SAP2,T,S,K,R,Q,A,V,P
+candidapepsin SAP3 precursor,N,V,K,R,Q,T,V,P
+candidapepsin SAP4 precursor,N,V,K,R,S,L,V,D
+candidapepsin SAP4 precursor,V,G,K,R,G,P,V,A
+candidapepsin SAP5 precursor,V,D,K,R,G,P,V,A
+candidapepsin SAP5 precursor,N,V,K,R,S,L,V,D
+candidapepsin SAP6 precursor,V,D,K,R,G,P,V,A
+candidapepsin SAP6 precursor,N,V,K,R,S,L,V,V
+candidapepsin-8 precursor,A,Q,K,R,G,T,V,Q
+candidapepsin-8 precursor,I,D,K,R,A,E,K,V
+Ccw14,H,V,K,R,I,K,K,F
+cell wall mannoprotein HSP150 precursor,K,A,K,R,A,A,S,Q
+cell wall protein,N,Y,K,R,G,G,Y,G
+cell wall protein,S,E,R,R,Q,S,D,C
+cell wall protein,R,S,E,R,C,N,Y,P
+cell wall protein,K,K,K,R,P,H,R,H
+cell wall protein,K,W,K,R,G,G,D,Y
+cell wall protein,R,V,S,R,P,A,P,S
+cell wall protein,Q,Y,K,R,G,E,V,E
+cell wall protein,R,E,T,R,D,C,D,F
+cell wall protein,Q,Y,K,R,G,E,V,E
+"cell wall protein, similar to PIR1",T,L,T,R,N,D,N,K
+cholecystokinin,I,S,D,R,D,Y,M,G
+cholecystokinin,F,G,R,R,S,A,E,E
+cis3p,K,A,K,R,D,V,I,S
+ECE1,N,M,K,R,A,V,A,P
+ECE1,I,T,K,R,S,I,I,G
+ECE1,G,N,K,R,E,D,I,D
+ECE1,S,T,K,R,D,G,A,N
+ECE1,N,A,K,R,D,G,V,P
+ECE1,Q,A,K,R,D,G,L,E
+ECE1,P,V,K,R,D,A,G,S
+envelope glycoprotein gp160,R,E,K,R,A,V,G,I
+exg1,N,E,K,R,Y,Y,D,Y
+"exg1p Major exo-1,3-beta-glucanase of the cell wall",N,K,K,R,Y,Y,D,Y
+"exo-1,3-beta-glucanase",N,T,K,R,Y,F,D,Y
+"exo-1,3-beta-glucanase",A,E,K,R,L,T,D,H
+FAS1 domain-containing protein,N,D,K,R,E,P,V,N
+FAS1 domain-containing protein,K,F,K,R,D,P,K,N
+FAS1 domain-containing protein,K,D,K,R,E,P,K,N
+FAS1 domain-containing protein,K,S,K,R,E,A,K,N
+FAS1 domain-containing protein,A,A,K,R,D,A,K,N
+FAS1 domain-containing protein,P,S,K,R,E,G,K,N
+FAS1 domain-containing protein,I,K,K,R,D,Q,K,I
+"GEF1 Chloride channel localized to late- or post-Golgi vesicles, involved in iron metabolism",L,L,K,R,Q,E,F,E
+"glucan 1,3-beta-glucosidase precursor",K,F,K,R,G,G,G,H
+his-box protein,H,E,K,R,D,L,V,V
+his-box protein,Q,H,K,R,D,S,V,V
+his-box protein,K,H,K,R,E,V,V,Y
+His-box protein,V,E,K,R,S,P,D,V
+HPIV3 F fusion glycoprotein,R,T,K,R,F,F,G,G
+hypothetical protein DEHA0C11308g,L,R,K,R,M,P,V,P
+kax2 Kex2,R,A,K,R,H,K,S,Y
+KEX2 Kex2 proprotein convertase,L,Q,K,R,M,P,V,P
+KEX2 Kex2 proprotein convertase,L,H,K,R,A,P,V,V
+kexB kexin like processing protease,L,V,K,R,T,P,P,P
+kexB kexin precursor,L,H,K,R,V,P,P,T
+kexin,R,Y,K,R,D,A,S,E
+kexin precursor,L,F,K,R,L,P,V,P
+mannoprotein MP65,E,E,K,R,A,V,H,V
+"mannosyl-oligosaccharide 1,2-alpha-mannosidase",E,V,S,R,A,R,D,W
+"mannosyl-oligosaccharide 1,2-alpha-mannosidase",S,R,A,R,D,W,I,K
+membrane protein,T,N,K,R,E,D,G,M
+membrane protein,V,L,K,R,D,E,D,G
+membrane protein,T,K,K,R,D,T,E,Y
+MFalpha1 alpha mating pheromone,N,E,K,R,E,A,K,S
+MFalpha1 alpha mating pheromone,P,G,K,R,D,A,N,A
+MFalpha1 alpha mating pheromone,P,G,K,R,D,A,N,A
+opaque-phase specific protein,L,T,K,R,D,A,E,N
+opaque-phase specific protein,N,A,K,R,E,T,S,P
+opaque-phase specific protein,L,A,E,R,D,Y,P,I
+opaque-phase specific protein,S,S,K,R,E,S,L,E
+opaque-phase specific protein,N,E,K,R,D,L,V,S
+opaque-phase specific protein,L,V,T,R,G,D,A,N
+opaque-phase specific protein,L,S,K,R,A,D,G,L
+opaque-phase specific protein,G,A,K,R,D,F,I,D
+opaque-phase specific protein,I,D,K,R,E,S,Q,L
+opaque-phase-specific protein OP4 precursor,M,V,K,R,E,D,V,N
+opaque-phase-specific protein OP4 precursor,N,Q,K,R,D,L,A,E
+opaque-phase-specific protein OP4 precursor,L,Q,R,R,A,D,S,V
+opaque-phase-specific protein OP4 precursor,A,S,K,R,E,I,M,E
+ops4-like 1,L,T,K,R,E,E,Q,D
+ops4-like 1,K,T,R,R,D,A,I,D
+ops4-like 1,I,M,K,R,D,Y,A,I
+ops4-like 1,M,E,K,R,L,D,L,D
+ops4-like 2,N,A,K,R,D,L,M,S
+ops4-like 2,I,I,K,R,E,N,Q,I
+ops4-like 2,S,A,K,R,E,I,M,V
+Pga17 Ops4 homolog,L,R,K,R,E,Y,N,D
+Pga17 Ops4 homolog,I,Q,K,R,E,E,G,I
+Pga17 Ops4 homolog,K,M,K,R,D,N,I,E
+Pga17 Ops4 homolog,I,F,K,R,D,M,A,F
+Pga17 Ops4 homolog,I,V,K,R,S,N,G,T
+pH regulated cell wall protein Phr2p,H,C,K,R,D,I,P,Y
+phr1p,A,C,K,R,D,V,K,Y
+PIR cell wall protein,K,V,K,R,N,V,I,S
+pir1,V,A,K,R,A,V,S,Q
+PIR1 precursor,K,A,K,R,A,A,A,I
+proopiomelanocortin,E,G,K,R,S,Y,S,M
+proopiomelanocortin,E,F,K,R,E,L,E,G
+proopiomelanocortin,K,D,K,R,Y,G,G,F
+pry protein,N,S,R,R,Q,L,H,K
+pry protein,N,A,K,R,A,L,H,K
+pry1,L,D,K,R,A,Q,K,K
+pry1,Q,K,K,R,S,N,L,S
+pry1,N,K,K,R,E,L,H,K
+pry1 precursor,N,K,K,R,A,L,H,K
+pry2,N,I,K,R,A,L,H,Q
+pry2 precursor,N,T,K,R,A,L,H,K
+related to cell cycle regulation and aging protein,I,D,K,R,A,D,G,T
+SCW10 precursor,H,E,K,R,D,V,V,T
+scw4,K,N,K,R,D,V,V,T
+scw4 Scw4 cell wall glucanase,G,H,R,R,N,A,E,H
+scw4-like protein,H,D,R,R,A,V,A,Y
+scw4-like protein,K,E,K,R,D,V,V,T
+scw4-like protein,M,E,K,K,D,V,K,V
+scw4-like protein,E,E,K,R,D,V,T,V
+scw4-like protein,D,N,K,R,D,L,V,Y
+scw4-like protein,Q,H,K,R,E,A,G,I
+secretory aspartyl proteinase,Y,T,K,R,D,A,L,P
+SIM1 precursor,Q,H,K,R,A,V,A,Y
+soluble cell wall protein,K,D,K,R,A,V,V,T
+structural cell wall protein,K,A,K,R,D,V,A,A
+structural cell wall protein,V,A,K,R,A,V,S,Q
+SUN family beta-glucosidase-like protein,N,I,K,R,E,D,C,D
+SUN family beta-glucosidase-like protein,K,H,K,R,A,V,A,Y
+Sun-like protein,V,A,K,R,S,P,E,V
+sun-like protein,K,E,K,R,A,A,V,T
+sun-like protein,R,H,R,R,D,S,Q,G
+sun-like protein,Q,H,K,R,A,I,A,V
+sun-like protein,H,S,K,R,E,V,V,T
+sun-like protein,H,A,R,R,A,E,V,T
+sun-like protein,Q,R,K,R,A,V,T,V
+sun-like protein,Q,H,K,R,A,V,A,V
+sun4,A,I,K,R,D,V,D,V
+sun4-like protein,K,E,V,R,D,F,H,A
+sun4-like protein,Q,H,K,R,A,V,Q,V
+sun4-like protein,H,A,K,R,D,E,D,C
+sun4-like protein,K,H,K,R,A,V,A,V
+sun4p,Q,H,K,R,A,V,A,V
+tos1,N,S,K,R,Q,I,D,D
+tos1,K,H,K,R,A,T,E,V
+tos1 precursor,L,K,K,R,S,E,K,Q
+tos1 precursor,Q,H,K,R,D,V,A,V
+tos1-like protein,H,D,K,R,A,V,H,Y
+tos1-like protein,N,S,K,R,A,V,A,E
+tos1-like protein,K,H,K,R,D,V,A,V
+tos1-like protein,N,K,K,R,E,D,E,E
+tos1-like protein,K,H,K,R,A,T,E,V
+Tos1-like protein,K,N,K,R,D,T,E,S
+Tos1-like protein,K,K,K,R,A,E,W,V
+tos1-like protein,F,K,K,R,D,Q,V,A
+tos1-like protein,E,H,K,R,E,A,A,V
+tos1-like protein,L,R,K,R,S,N,N,Q
+tos1-like protein,H,H,K,R,D,D,V,I
+tos1-like protein,A,H,K,R,G,V,V,T
+Uth1 SUN domain protein,Q,H,K,R,E,D,V,V
+yapsin-1 precursor,A,N,K,R,D,D,D,S
+yapsin-3 precursor,L,S,K,R,S,N,G,H
+yapsin-6 precursor,V,F,K,R,N,E,V,L

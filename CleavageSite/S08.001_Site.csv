@@ -1,0 +1,44 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+alpha-2-macroglobulin,G,H,A,R,L,V,H,V
+alpha-2-macroglobulin,H,A,R,L,V,H,V,E
+Antitrypsin,S,K,V,Y,V,R,P,P
+"Citrate synthase, mitochondrial",Y,G,H,A,V,L,R,K
+"Citrate synthase, mitochondrial",G,H,A,V,L,R,K,T
+Glucoamylase,P,S,I,V,A,T,G,G
+Glucoamylase,T,S,A,S,S,V,P,G
+Gly-Leu-Ala-Thr-Gly-Asn-Val-Ser-Thr-Ala-Glu-Leu-Gln-Asp-Ala-Thr-Pro-Ala-NHPhNO2,A,T,P,A,NAN,*,*,*
+hirudin HM2 precursor,P,K,S,Q,T,E,G,D
+insulin B-chain (oxidized),V,E,A,L,Y,L,V,Cya
+insulin B-chain (oxidized),F,V,N,Q,H,L,Cya,G
+insulin B-chain (oxidized),L,Cya,G,S,H,L,V,E
+insulin B-chain (oxidized),G,S,H,L,V,E,A,L
+insulin B-chain (oxidized),E,A,L,Y,L,V,Cya,G
+insulin B-chain (oxidized),A,L,Y,L,V,Cya,G,E
+insulin B-chain (oxidized),G,F,F,Y,T,P,K,A
+insulin B-chain (oxidized),*,F,V,N,Q,H,L,Cya
+insulin B-chain (oxidized),Y,L,V,Cya,G,E,R,G
+insulin B-chain (oxidized),V,N,Q,H,L,Cya,G,S
+insulin B-chain (oxidized),H,L,V,E,A,L,Y,L
+insulin B-chain (oxidized),Cya,G,E,R,G,F,F,Y
+insulin B-chain (oxidized),E,R,G,F,F,Y,T,P
+insulin B-chain (oxidized),Y,T,P,K,A,*,*,*
+Lys-Gly-Lys-Asn-Ser-Gly-Ser-Gly-Ala-Thr-Pro-Val-NHPhNO2,A,T,P,V,NAN,*,*,*
+MAP kinase-activated protein kinase 2,F,H,V,K,S,G,L,Q
+MAP kinase-activated protein kinase 2,H,N,S,L,T,T,P,C
+MAP kinase-activated protein kinase 2,Y,T,P,Y,Y,V,A,P
+MAP kinase-activated protein kinase 2,N,H,G,L,A,I,S,P
+myoglobin,L,K,P,L,A,Q,S,H
+myoglobin,P,L,A,Q,S,H,A,T
+myoglobin,A,Q,S,H,A,T,K,H
+"ribonuclease, pancreatic",Y,S,T,M,S,I,T,D
+"ribonuclease, pancreatic",Y,Q,S,Y,S,T,M,S
+"ribonuclease, pancreatic",T,S,A,A,S,S,S,N
+"ribonuclease, pancreatic",S,A,A,S,S,S,N,Y
+"ribonuclease, pancreatic",M,D,S,S,T,S,A,A
+"ribonuclease, pancreatic",S,S,T,S,A,A,S,S
+"ribonuclease, pancreatic",S,T,S,A,A,S,S,S
+Ser-Gly-Arg-Val-Val-Pro-Gly-Tyr-Gly-His-Ala-NHPhNO2,Y,G,H,A,NAN,*,*,*
+serpin {ECO:0000313|EMBL:AEW22118.1},T,A,V,E,M,V,K,T
+Suc-Ala-Ala-Ala-NHPhNO2,Suc,A,A,A,NAN,*,*,*
+Suc-Ala-Ala-Pro-Phe-NHPhNO2,A,A,P,F,NAN,*,*,*
+Z-Gly-Gly-Leu-NHPhNO2,Z,G,G,L,NAN,*,*,*

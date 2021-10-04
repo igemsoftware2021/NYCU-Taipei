@@ -1,0 +1,12 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+insulin B-chain (oxidized),Q,H,L,Cya,G,S,H,L
+insulin B-chain (oxidized),Cya,G,S,H,L,V,E,A
+insulin B-chain (oxidized),H,L,V,E,A,L,Y,L
+insulin B-chain (oxidized),V,E,A,L,Y,L,V,Cya
+insulin B-chain (oxidized),E,A,L,Y,L,V,Cya,G
+insulin B-chain (oxidized),L,Y,L,V,Cya,G,E,R
+insulin B-chain (oxidized),Y,L,V,Cya,G,E,R,G
+insulin B-chain (oxidized),G,E,R,G,F,F,Y,T
+insulin B-chain (oxidized),E,R,G,F,F,Y,T,P
+insulin B-chain (oxidized),G,F,F,Y,T,P,K,A
+insulin B-chain (oxidized),Y,T,P,K,A,*,*,*

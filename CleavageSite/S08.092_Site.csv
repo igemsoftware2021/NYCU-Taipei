@@ -1,0 +1,33 @@
+name,P4,P3,P2,P1,P1',P2',P3',P4'
+Ac-Ala-Ala-azaalanine-OPhNO2,Ac,A,A,Aal,ONA,*,*,*
+Glp-Ala-Ala-Leu-NHPhNO2,Glp,A,A,L,NAN,*,*,*
+Glt-Ala-Ala-Pro-Leu-NHPhNO2,A,A,P,L,NAN,*,*,*
+insulin B-chain (oxidized),F,V,N,Q,H,L,Cya,G
+insulin B-chain (oxidized),V,N,Q,H,L,Cya,G,S
+insulin B-chain (oxidized),N,Q,H,L,Cya,G,S,H
+insulin B-chain (oxidized),Q,H,L,Cya,G,S,H,L
+insulin B-chain (oxidized),L,Cya,G,S,H,L,V,E
+insulin B-chain (oxidized),G,S,H,L,V,E,A,L
+insulin B-chain (oxidized),H,L,V,E,A,L,Y,L
+insulin B-chain (oxidized),L,V,E,A,L,Y,L,V
+insulin B-chain (oxidized),V,E,A,L,Y,L,V,Cya
+insulin B-chain (oxidized),E,A,L,Y,L,V,Cya,G
+insulin B-chain (oxidized),Y,L,V,Cya,G,E,R,G
+insulin B-chain (oxidized),L,V,Cya,G,E,R,G,F
+insulin B-chain (oxidized),V,Cya,G,E,R,G,F,F
+insulin B-chain (oxidized),Cya,G,E,R,G,F,F,Y
+insulin B-chain (oxidized),G,E,R,G,F,F,Y,T
+insulin B-chain (oxidized),E,R,G,F,F,Y,T,P
+insulin B-chain (oxidized),R,G,F,F,Y,T,P,K
+insulin B-chain (oxidized),G,F,F,Y,T,P,K,A
+insulin B-chain (oxidized),F,Y,T,P,K,A,R,R
+insulin B-chain (oxidized),Y,T,P,K,A,R,R,E
+Leu-Leu-Pro-Asn-Ala-Leu,L,L,P,N,A,L,*,*
+Leu-Leu-Pro-Gln-Ala-Leu,L,L,P,Q,A,L,*,*
+Leu-Leu-Pro-Leu-Ala-Leu,L,L,P,L,A,L,*,*
+Leu-Leu-Pro-Met-Ala-Leu,L,L,P,M,A,L,*,*
+Leu-Leu-Pro-Thr-Ala-Leu,L,L,P,T,A,L,*,*
+Suc-Ala-Ala-Ala-NHPhNO2,Suc,A,A,A,NAN,*,*,*
+Suc-Ala-Ala-Pro-Leu-NHPhNO2,A,A,P,L,NAN,*,*,*
+Suc-Ala-Ala-Pro-Phe-NHPhNO2,A,A,P,F,NAN,*,*,*
+Suc-Ala-Pro-Ala-NHPhNO2,Suc,A,P,A,NAN,*,*,*
