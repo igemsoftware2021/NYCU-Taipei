@@ -18,6 +18,9 @@ This is the GitHub repository of **iGEM team NYCU-Taipei**. It contains all the 
 - sklearn
 - matplotlib, seaborn
 - thundersvm
+- joblib
+
+Using google colab can avoid dealing with the dependency problem. This [link](https://colab.research.google.com/github/mmi366127/NYCU-Taipei/blob/main/S8_family_Protease_Subtrate_Relation_Prediction_APP.ipynb) is the application of our project on google colab.
 
 ## Project Description
 
