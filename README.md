@@ -2,6 +2,22 @@
 
 This is the GitHub repository of **iGEM team NYCU-Taipei**. It contains all the materials in our software project, which consists of the crawler, the dataset, the selected features, and our model implementations.
 
+## Packages
+
+- gdown
+- keras, tensorflow
+- numpy
+- re
+- pandas
+- requests
+- os
+- bs4
+- datetime
+- concurrent
+- time
+- sklearn
+- matplotlib, seaborn
+- thundersvm
 
 ## Project Description
 
